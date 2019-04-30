@@ -1,3 +1,7 @@
+v1.0.0.1
+Add KogMaw
+improve Irelia Q Logic
+
 v1.0.0.0
 released, support Irelia and Kaisa
 thx Monster help me alot
