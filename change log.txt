@@ -1,3 +1,9 @@
+v1.0.0.2
+Update to latest update
+Fix some bugs with Irelia
+Add Lucian, Twitch, Vayne, Xayah, Yasuo[BEAT]
+remember Yasuo is BETA version
+
 v1.0.0.1
 Add KogMaw
 improve Irelia Q Logic
