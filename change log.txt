@@ -1,3 +1,8 @@
+v1.0.0.3
+improve Yasuo logic, fix Yasuo evade cant be disable for spell setting (thanks Monster for evade logic)
+more check with lucian passive
+about Yasuo already finish, in future i will add Beyblade and some special target spell evade logic
+
 v1.0.0.2
 Update to latest update
 Fix some bugs with Irelia
