@@ -1,3 +1,8 @@
+v1.0.0.4
+Add Fiora
+Yasuo Combo Mode Finish (Simple & More Dash)
+Add Yasuo EQ Exploit(if you use this Exploit, just Use More Dash Combo Mode)
+
 v1.0.0.3
 improve Yasuo logic, fix Yasuo evade cant be disable for spell setting (thanks Monster for evade logic)
 more check with lucian passive
