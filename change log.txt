@@ -1,3 +1,7 @@
+v1.0.0.5
+Vayne Have Better Q Logic
+Add Gangplank[BETA] (Only KS&Combo&Harass)
+
 v1.0.0.4
 Add Fiora
 Yasuo Combo Mode Finish (Simple & More Dash)
