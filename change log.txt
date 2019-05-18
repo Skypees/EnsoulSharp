@@ -1,3 +1,10 @@
+v1.0.0.7
+Add Draven & LeeSin
+Fix Irelia sometimes will dash to wrong position
+Yasuo Add EQ Flash Logic
+Gangplank Add LaneClear & JungleClear & LastHit Logic (About LaneClear & JungleClear it will auto Q Barrel to farm, it mean you need manual cast barrel) 
+Fix Most Champion LaneClear not work issue (when have enough mana)";
+
 v1.0.0.6
 Update to 9.10
 
