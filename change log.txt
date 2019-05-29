@@ -1,3 +1,10 @@
+v1.0.0.12
+Improve LeeSin Insec Logic
+Improve Tristana Logic About AA
+Better Ezreal BaseUlt Damage Calculate
+Delete Debug Message
+---> Shinobi AIO will be support All ADC, just need some times(these day i busy on my real life, that mean i dont have enough time to update my Assembly)
+
 v1.0.0.11
 Add Ezreal, Riven and Tristana
 Improve some champions Logic
