@@ -1,3 +1,9 @@
+v1.0.0.13
+Add Spell Hitchance Option
+Fix Xayah Q Random Cast Issue(it's already fix on v1.0.0.12)
+Ezreal Add Semi R Key
+Add Ashe, Corki, Graves, Jinx, Kalista, MissFortune, Sivir, TwistedFate, Varus
+
 v1.0.0.12
 Improve LeeSin Insec Logic
 Improve Tristana Logic About AA
