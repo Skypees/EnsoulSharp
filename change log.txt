@@ -1,3 +1,9 @@
+v1.0.0.14
+Update to lastest Version (Core)
+Yasuo Add LaneClear LastHit E Option (turn off = fast LaneClear Mode)
+Improve Ezreal WQ Logic, Add Auto Q Option
+Improve Riven QA Cancel Logic (thanks Monster for QA Data Calculate), if you feel QA Slow just to go 'Misc Menu' -> 'Q Delay' to set it low value
+
 v1.0.0.13
 Add Spell Hitchance Option
 Fix Xayah Q Random Cast Issue(it's already fix on v1.0.0.12)
