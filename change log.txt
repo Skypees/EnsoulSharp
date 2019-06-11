@@ -1,3 +1,6 @@
+v1.0.0.16
+Fix Ezreal, Jinx, Yasuo Inject Fail Error
+
 v1.0.0.15
 Fix LeeSin not WardJump to Pink Ward Issue
 Riven Add Combo E Option, Harass Mode add Only AQA
