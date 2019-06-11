@@ -1,3 +1,10 @@
+v1.0.0.15
+Fix LeeSin not WardJump to Pink Ward Issue
+Riven Add Combo E Option, Harass Mode add Only AQA
+Improve KS Check
+Improve FPS
+Add Viktor
+
 v1.0.0.14
 Update to lastest Version (Core)
 Yasuo Add LaneClear LastHit E Option (turn off = fast LaneClear Mode)
