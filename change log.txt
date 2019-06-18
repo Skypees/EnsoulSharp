@@ -1,3 +1,7 @@
+v1.0.0.17
+Fix Riven Q Issue
+Fix Fiora Block Spell issue
+
 v1.0.0.16
 Fix Ezreal, Jinx, Yasuo Inject Fail Error
 
