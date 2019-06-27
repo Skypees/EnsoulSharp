@@ -1,3 +1,7 @@
+v1.0.0.18
+Update to latest version
+Fix some strange issue
+
 v1.0.0.17
 Fix Riven Q Issue
 Fix Fiora Block Spell issue
