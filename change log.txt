@@ -1,3 +1,10 @@
+v1.0.0.20
+1. Add Version Check for script
+2. Update to latest SDK
+3. Fix GP Not work issue, Improve GP Combo Logic
+4. Improve some champion logic
+5. Some champion not create by myself (other members from the team), like GP, Irelia, Riven and some Marksman, maybe it have some strange issue, i will feedback to him and let them fix it
+
 v1.0.0.19
 Changed .Net Framework to v4.7.2 (make sure you already install this one) 
 Rewrite Riven Combo Logic, now have Riven Dash Logic (everything can control by yourself)
